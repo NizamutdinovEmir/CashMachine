@@ -1,6 +1,6 @@
 # CashMachine
 
-## Использованные технологии: C#, SOLID, PostgreSQL, Dependency Injection, асинхронное программирование, mocking.
+## Использованные технологии: C#, Docker, SOLID, PostgreSQL, Dependency Injection, асинхронное программирование, mocking.
 
 # Функциональные требования
 
